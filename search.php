@@ -132,7 +132,13 @@ p {
     <script src="swiper.js" type="text/javascript"></script>
 </head>
 <body id="body_bg">
-    
+    <div class="wrapper">
+        <div class="btn">
+            <a href="index.html">
+            <button style="button">Go back HOME page</button>
+            </a>
+        </div>
+    </div>
     <div align="center">
 
     <h1 style="background-color:powderblue;">SEARCH PAGE</h1>
